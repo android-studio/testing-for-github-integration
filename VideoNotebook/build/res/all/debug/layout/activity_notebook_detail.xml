@@ -1,0 +1,8 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/notebook_detail_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NotebookDetailActivity"
+    tools:ignore="MergeRootFrame" />
+<!-- From: file:/Users/josiahgaskin/AndroidStudioProjects/VideoNotebookProject/VideoNotebook/src/main/res/layout/activity_notebook_detail.xml -->
